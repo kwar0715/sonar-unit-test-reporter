@@ -6,10 +6,10 @@ Show unit test result in sonarqube window
 
 use npm
 
-`npm install sonar-unit-test-repoter`
+``` npm install sonar-unit-test-repoter  ```
 
 use yarn
-`yarn add -D sonar-unit-test-repoter`
+``` yarn add -D sonar-unit-test-repoter```
 
 ## Configure
 
