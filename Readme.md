@@ -1,4 +1,6 @@
-Show unit test result in sonarqube view
+# Sonar Unit Test Reporter
+
+Show unit test result in sonarqube window
 
 ## Install
 
@@ -25,9 +27,9 @@ change sonar property file
 sonar.genericcoverage.unitTestReportPaths=coverage/unit-tests.xml
 ```
 
-npm version : 9
+### pre-requisits
 
-Kolitha Warnakulasooriya
+npm version : 9
 
 <p align="center">
   <img src="https://github.com/kwar0715/sonar-unit-test-reporter/blob/master/image.png"/>
