@@ -1,6 +1,14 @@
 {
   "name": "sonar-unit-test-repoter",
-  "version": "1.0.2",
+  "version": "1.0.3",
+  "keywords": [
+    "sonar",
+    "sonarqube",
+    "unit",
+    "test",
+    "report",
+    "view"
+  ],
   "description": "report component of unit tests in to sonarqube",
   "main": "src/index.js",
   "author": "Kolitha Warnakulasooriya",
