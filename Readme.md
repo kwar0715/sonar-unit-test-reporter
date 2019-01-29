@@ -9,6 +9,7 @@ use npm
 ``` npm install sonar-unit-test-repoter  ```
 
 use yarn
+
 ``` yarn add -D sonar-unit-test-repoter```
 
 ## Configure
