@@ -1,0 +1,22 @@
+{
+  "name": "sonar-unit-test-repoter",
+  "version": "1.0.0",
+  "description": "report component of unit tests in to sonarqube",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Kolitha Warnakulasooriya",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.0.0"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "testResultsProcessor": "<rootDir>/src/index.js"
+  },
+  "dependencies": {
+    "path": "^0.12.7",
+    "xml": "^1.0.1"
+  }
+}
